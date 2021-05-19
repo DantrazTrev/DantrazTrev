@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **three.js,polkadot and solidity**
 
-- 📝 I'm starting to write articles on [https://medium.com/@nerosangel](https://medium.com/@nerosangel)
+- 📝 I'm planning on writing articles at [https://medium.com/@nerosangel](https://medium.com/@nerosangel)
 
 - 💬 Ask me about **Hackintosh , AI in Music production and ROM Hacking**
 
 - ⚡ Fun fact **I can yawn like a cat**
+
+- 💬 I speak 🇬🇧English 🇮🇳हिन्दी 🇳🇴Norsk  
 
 
 <h3 align="left">Languages and Tools:</h3>

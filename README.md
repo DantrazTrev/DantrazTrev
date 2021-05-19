@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I can yawn like a cat**
 
-- 💬 I speak 🇬🇧English 🇮🇳हिन्दी 🇳🇴Norsk  
+- 💬 Natural Languages 🇬🇧English 🇮🇳हिन्दी 🇳🇴Norsk  
 
 
 <h3 align="left">Languages and Tools:</h3>

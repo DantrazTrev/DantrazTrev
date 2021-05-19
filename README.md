@@ -1,7 +1,7 @@
 <h1 align="center">Hei, I'm Ayush PS </h1>
 <h3 align="center">A passionate frontend developer and designer from India</h3>
 
-- 🔭 I’m currently working on [The Butterfly](api.butterflyeffe.tk)
+- 🔭 I’m currently working on [The Butterfly](https://api.butterflyeffe.tk)
 
 - 🌱 I’m currently learning **three.js,polkadot and solidity**
 

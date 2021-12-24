@@ -1,5 +1,4 @@
 <h1 align="center">Hei, I'm Ayush PS </h1>
-<h3 align="center">A frontend developer and designer</h3>
 
 - 🔭 I’m currently working on [The Butterfly](https://api.butterflyeffe.tk)
 

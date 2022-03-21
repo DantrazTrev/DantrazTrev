@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [The Butterfly](https://api.butterflyeffe.tk)
 
-- 🌱 I’m currently learning **three.js,polkadot and solidity**
+- 🌱 I’m currently learning **three.js,lua and Web Assembly**
 
 - 📝 I'm planning on writing articles at [https://medium.com/@nerosangel](https://medium.com/@nerosangel)
 
@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I can yawn like a cat**
 
-- 💬 Natural Languages 🇬🇧English 🇮🇳हिन्दी 🇳🇴Norsk  
+- 💬 Natural Languages 🇬🇧English 🇮🇳हिन्दी 🇳🇴Norsk 🇫🇷French
 
 
 <h3 align="left">Languages and Tools(I can work with):</h3>

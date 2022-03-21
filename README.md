@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I can yawn like a cat**
 
-- 💬 Natural Languages 🇬🇧English 🇮🇳हिन्दी 🇳🇴Norsk 🇫🇷French
+- 💬 Natural Languages 🇬🇧English 🇮🇳हिन्दी 🇳🇴Norsk 🇫🇷Français
 
 
 <h3 align="left">Languages and Tools(I can work with):</h3>

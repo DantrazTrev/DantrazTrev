@@ -1,6 +1,6 @@
 <h1 align="center">Hei, I'm Ayush PS </h1>
 
-- 🔭 I’m currently working on [The Butterfly](https://api.butterflyeffe.tk)
+- 🔭 I’m currently working on [The Butterfly](https://api.butterflyeffe.tk) , [FYRX](https://fyrx.dantraz.codes) ]
 
 - 🌱 I’m currently learning **three.js,lua and Web Assembly**
 

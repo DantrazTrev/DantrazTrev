@@ -1,4 +1,4 @@
-<h1 align="center">Hei, I'm Ayush PS </h1>
+<h1 align="center">Hei there</h1>
 
 - 🔭 I’m currently working on [The Butterfly](https://api.butterflyeffe.tk) , [FYRX](https://fyrx.dantraz.codes) 
 

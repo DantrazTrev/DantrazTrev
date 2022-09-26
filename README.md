@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/DantrazTrev/DantrazTrev/main/960x0.jpeg" height=250/></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/DantrazTrev/DantrazTrev/main/960x0.jpeg" height=250/></h1>
 
 - 🔭 I’m currently working on [Pixelayers](https://pixelayers.com) , [FYRX](https://fyrx.netlify.app) 
 

@@ -1,16 +1,14 @@
-<h1 align="center">Hei there</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/DantrazTrev/DantrazTrev/main/960x0.jpeg" height=250/></h1>
 
-- 🔭 I’m currently working on [The Butterfly](https://api.butterflyeffe.tk) , [FYRX](https://fyrx.dantraz.codes) 
+- 🔭 I’m currently working on [Pixelayers](https://pixelayers.com) , [FYRX](https://fyrx.netlify.app) 
 
 - 🌱 I’m currently learning **three.js,lua and Web Assembly**
-
-- 📝 I'm planning on writing articles at [https://medium.com/@nerosangel](https://medium.com/@nerosangel)
 
 - 💬 Ask me about **Hackintosh , AI in Music production and ROM Hacking**
 
 - ⚡ Fun fact **I can yawn like a cat**
 
-- 💬 Natural Languages 🇬🇧English 🇮🇳हिन्दी 🇳🇴Norsk 🇫🇷Français
+- 💬 Natural Languages 🇬🇧English 🇳🇴Norsk 🇫🇷Français
 
 
 <h3 align="left">Languages and Tools(I can work with):</h3>

@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **three.js,lua and Web Assembly**
 
-- 💬 Ask me about **Hackintosh , AI in Music production and ROM Hacking**
+- 💬 Ask me about **Hackintosh , Web Media and ROM Hacking**
 
 - ⚡ Fun fact **I can yawn like a cat**
 

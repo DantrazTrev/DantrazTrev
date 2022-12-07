@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I can yawn like a cat**
 
-- 💬 Natural Languages 🇬🇧English 🇳🇴Norsk 🇫🇷Français
+- 💬 Natural Languages (understood) 🇬🇧English 🇳🇴Norsk 🇫🇷Français
 
 
 <h3 align="left">Languages and Tools(I can work with):</h3>
